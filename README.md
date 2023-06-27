@@ -1,4 +1,4 @@
-# UAS_marcelino_F55121089
+# UAS_Marcelino pata allo_F55121089
 
 analisis nomor 1
 
