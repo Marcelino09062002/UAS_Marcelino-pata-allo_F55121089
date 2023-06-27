@@ -1,6 +1,7 @@
 # UAS_marcelino_F55121089
 
 analisis nomor 1
+
 Worst case:
 Bubble Sort: Pada worst case, bubble sort memiliki kompleksitas waktu O(n^2), di mana n adalah jumlah elemen dalam list. Worst case terjadi ketika list dalam keadaan terurut terbalik, sehingga setiap elemen harus dipindahkan ke posisi yang tepat melalui iterasi penuh.
 Insertion Sort: Pada worst case, insertion sort juga memiliki kompleksitas waktu O(n^2). Hal ini terjadi ketika list dalam keadaan terurut terbalik, dan setiap elemen harus dipindahkan ke posisi yang tepat dengan pergeseran elemen-elemen lain.
@@ -15,8 +16,6 @@ Insertion Sort: Pada average case, insertion sort memiliki kompleksitas waktu O(
 Dalam kasus pengurutan list yang diberikan, baik bubble sort maupun insertion sort akan memiliki kompleksitas waktu O(n^2) dalam worst case dan average case, serta O(n) dalam best case (khususnya jika list sudah dalam keadaan terurut secara ascending sejak awal).
 
 Selain itu, perlu dicatat bahwa insertion sort cenderung lebih efisien daripada bubble sort karena memiliki sedikit operasi pertukaran elemen. Namun, jika jumlah elemen dalam list sangat kecil, perbedaan dalam kinerja keduanya mungkin tidak signifikan.
-
-analisis nomor 2
 
 analisis nomor 2
 
